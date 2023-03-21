@@ -1,0 +1,28 @@
+.mainpage{
+    background-color: black;
+}
+.navbar{
+    background-color: darkslategray;
+    color: white;
+}
+form{
+    min-height: 100vh;
+    align-items: center;
+    color: aliceblue;
+    margin-top: 200px;  
+}
+input{
+    border-radius: 20px;
+    border: 2px solid blue;
+    background-color: aqua;
+    margin-right: 20px;
+}
+button{
+    border-radius: 20px;
+    border: 2px solid white;
+    background-color: green;
+    color: aliceblue;
+}
+table{
+    background-color: whitesmoke;
+}
